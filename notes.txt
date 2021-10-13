@@ -1,0 +1,2 @@
+normally contracts are at the high folder level ( folder names contracts)
+here it's inside src to make it accessible by the client side because of the react app  
